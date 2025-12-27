@@ -108,19 +108,4 @@ Start command used in deployment:
 python -m uvicorn app.main:app --host 0.0.0.0 --port $PORT
 ```
 
----
-
-## Future Improvements
-
-* User authentication and authorization
-* Pagination and filtering
-* Multi-user support
-* Migration to PostgreSQL
-* Monitoring and structured logging
-
----
-
-## License
-
-This project is intended for educational and portfolio use.
 
